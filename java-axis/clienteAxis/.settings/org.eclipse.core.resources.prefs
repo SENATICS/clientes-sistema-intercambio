@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/py/gov/senatics/sii/ws/utils/Persona.java=UTF-8
+encoding//src/py/gov/senatics/sii/ws/utils/PersonaWS.java=UTF-8
+encoding//src/py/gov/senatics/sii/ws/utils/PersonaWSService.java=UTF-8
+encoding//src/py/gov/senatics/sii/ws/utils/PersonaWSServiceLocator.java=UTF-8
+encoding//src/py/gov/senatics/sii/ws/utils/PersonaWSServiceSoapBindingStub.java=UTF-8
+encoding//src/py/gov/senatics/sii/ws/utils/RegistroIdentificacionesException.java=UTF-8
+encoding//src/py/gov/senatics/sii/ws/utils/ServiceException.java=UTF-8
